@@ -9,4 +9,3 @@ elif height > 165:
     print(" Your height is average. ")
 else:
     print(" Your height is below avarage. ")
-
