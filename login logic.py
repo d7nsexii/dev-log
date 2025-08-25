@@ -17,3 +17,9 @@ elif user_id != db_id:
     print(" ID does not exist.")
 else:
     print(" Incorrect password.")
+
+"""
+Copyright (c) 2025 d7nsexii™
+
+All rights reserved.
+"""
