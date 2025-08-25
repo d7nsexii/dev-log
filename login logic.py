@@ -1,14 +1,19 @@
-#가상 웹사이트 로그인 로직
+"""
+Sample website login logic.
+You can try how login works.
+Example-ID : " student01 "
+Example-PW : " 1234* "
+"""
 
 db_id = "student01"
 db_pw = "1234*"
 
-user_id = input("아이디 입력: ")
-user_pw = input("패스워드 입력: ")
+user_id = input(" Enter your ID: ")
+user_pw = input(" Enter your Password: ")
 
 if user_id == db_id and user_pw == db_pw:
-    print(" 로그인이 성공적으로 완료되었습니다.")
+    print(" Login Succsessful. ")
 elif user_id != db_id:
-    print(" 존재하지 않는 아이디입니다.")
+    print(" ID does not exist.")
 else:
-    print(" 비밀번호가 틀렸습니다.")
+    print(" Incorrect password.")
