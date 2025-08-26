@@ -8,7 +8,7 @@ price = int(input("Enter the price : " ))
 discount = float(input("Enter the discount rate (%) : " ))
 
 final_price = price - (price * discount / 100)
-print(f"{un}, Fianl Price is {final_price}!")
+print(f"{un}, Final Price is {final_price}!")
 
 
 """
@@ -16,4 +16,5 @@ Copyright (c) 2025 d7nsexii™
 
 All rights reserved.
 """
+
 
