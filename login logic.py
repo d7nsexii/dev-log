@@ -19,7 +19,8 @@ else:
     print(" Incorrect password.")
 
 """
-Copyright (c) 2025 d7nsexii™
+Copyright (c) 2025 dnxvel™
 
 All rights reserved.
 """
+
