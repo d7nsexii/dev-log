@@ -12,9 +12,10 @@ print(f"{un}, Final Price is {final_price}!")
 
 
 """
-Copyright (c) 2025 d7nsexii™
+Copyright (c) 2025 dnxvel™
 
 All rights reserved.
 """
+
 
 
